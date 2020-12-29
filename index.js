@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'REUZ BOT☄'; 
+const BotName = 'ARM BOT☄'; 
 const instagram = 'https://instagram.com/raihan_mn12'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 //const grupch1 = 'https://chat.whatsapp.com/H7a8oGzJoPa8h5mvBcRr1n; 
